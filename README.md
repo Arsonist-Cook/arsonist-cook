@@ -1,4 +1,4 @@
-### Uma pergunta boa é aquele que leva a outra pergunta!
+### Uma pergunta boa é aquela que leva a outra pergunta!
 
 <!--
 **Arsonist-Cook/arsonist-cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
